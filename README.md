@@ -2,7 +2,11 @@
 
 This is a basic container traffic predicition using ARIMA model.
 
-Our TNSM paper: Blender: A Container Placement Strategy by Leveraging Zipf-like Distribution within Containerized Data Centers
+Our TNSM paper will be published in IEEE soon.
+
+Z. Wu, Y. Deng, H. Feng, G. Min and Z. Zhang. Blender: A Container Placement Strategy by
+Leveraging Zipf-like Distribution within Containerized Data Centers. IEEE Transactions on
+Network and Service Management. IEEE, Accepted.
 
 ## 1. Main idea
 The main idea of predicting the traffic matrix is shown on below:
